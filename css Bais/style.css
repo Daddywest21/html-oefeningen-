@@ -9,9 +9,11 @@ p{
 }
 
 .es{
-    color: cornsilk;
+    background-color: cornsilk;
     
 }
-li{
-    background-color: hotpink;
+
+#es{
+    text-decoration: underline;
+    color: firebrick;
 }
