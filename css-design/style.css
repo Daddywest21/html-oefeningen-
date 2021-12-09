@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+}
+
+
+
 h1 {
     text-align: center;
 }
@@ -12,9 +18,14 @@ div.kleur {
     padding: 20px;
 }
 
+
 p {
     border: 5px dotted red;
     padding: 5px;
 }
 
+p + p {
+    margin-top: 20px;
+    background-color: greenyellow;
+}
 
